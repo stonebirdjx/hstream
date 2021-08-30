@@ -1,0 +1,6 @@
+github.com/stonebirdjx/logger v0.0.0-20210808061622-2f2414f395b2 h1:rRhjlAFmjVZThPAfsLLOLAHImJScm9xo8lppS7h5kXg=
+github.com/stonebirdjx/logger v0.0.0-20210808061622-2f2414f395b2/go.mod h1:M2LXhpI1UtTNV0iedKYX/HAzQPLo91aZUxXQvUMoDks=
+github.com/stonebirdjx/readfile v0.0.0-20210808033016-bc9e245db44a h1:+nncWlY93g7Zolbhpeon7d/wsSyfk4njEdHqEsu2JmY=
+github.com/stonebirdjx/readfile v0.0.0-20210808033016-bc9e245db44a/go.mod h1:ff4WO5afInfjTp+p0aFBjoUP5WRQIeqXuuhI9M/yQxI=
+github.com/stonebirdjx/writefile v0.0.0-20210808040933-a2adb57724b2 h1:nbW7d9MdkOVlB+Gl2vT119MgTmgauk/Vr6uWdqPtn94=
+github.com/stonebirdjx/writefile v0.0.0-20210808040933-a2adb57724b2/go.mod h1:gkvN74PFO0n5Ee2E53dU3sc1CxpsuUy5hVugYCpdwwU=
